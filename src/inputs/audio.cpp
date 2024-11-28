@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <termios.h>
 
-#define SAMPLE_RATE 44100
+#define SAMPLE_RATE 16000
 #define FRAMES_PER_BUFFER 256
 #define NUM_CHANNELS 1
 #define DITHER_FLAG 0
